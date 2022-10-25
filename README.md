@@ -1,2 +1,1 @@
-# a-js-library-built-with-svelte
-A JavaScript library built with Vite and Svelte
+Boilerplate code for building a JavaScript library with Vite, Svelte and TypeScript.
